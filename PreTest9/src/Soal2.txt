@@ -1,0 +1,16 @@
+/*
+ ====================================================================================================
+ SOAL 2: PENJELASAN RELASI OBJEK
+ ====================================================================================================
+ Asosiasi adalah hubungan biasa antar-objek yang saling tahu dan berinteraksi, namun keduanya tetap 
+ mandiri sehingga jika salah satu objek hilang, objek lainnya tidak akan terpengaruh sama sekali.
+ 
+ Agregasi adalah hubungan kepemilikan yang longgar di mana satu objek menjadi bagian dari objek lain, 
+ tetapi objek bagian tersebut bisa dilepas dan berdiri sendiri sehingga tidak ikut rusak jika objek 
+ utamanya dihancurkan.
+ 
+ Komposisi adalah hubungan kepemilikan yang sangat kuat dan permanen di mana objek bagian menjadi satu 
+ kesatuan utuh yang tidak bisa dipisahkan, sehingga hidup matinya bergantung penuh pada objek utama 
+ dan akan pasti ikut hancur jika objek utamanya dihancurkan.
+ ====================================================================================================
+*/
