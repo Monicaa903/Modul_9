@@ -6,4 +6,6 @@ class Ban {
         this.merk = merk;
         this.ukuranRing = ukuranRing;
     }
-}
+}git add .
+git commit -m "Mengubah nama file objek"
+git push origin main
